@@ -1,0 +1,128 @@
+[25-Jun-2014 23:10:02 America/Chicago] PHP Warning:  split() expects at least 2 parameters, 1 given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 5
+[25-Jun-2014 23:10:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 7
+[25-Jun-2014 23:12:07 America/Chicago] PHP Warning:  htmlspecialchars() expects parameter 2 to be long, string given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 5
+[25-Jun-2014 23:12:07 America/Chicago] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 5
+[25-Jun-2014 23:12:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 7
+[25-Jun-2014 23:12:14 America/Chicago] PHP Warning:  htmlspecialchars() expects parameter 2 to be long, string given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 5
+[25-Jun-2014 23:12:14 America/Chicago] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 5
+[25-Jun-2014 23:12:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 7
+[26-Jun-2014 11:34:41 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 25
+[26-Jun-2014 11:34:41 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 25
+[26-Jun-2014 11:34:41 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 25
+[26-Jun-2014 11:34:41 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 25
+[26-Jun-2014 11:34:41 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 25
+[26-Jun-2014 11:34:41 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 25
+[26-Jun-2014 15:40:13 America/Chicago] PHP Warning:  file_get_contents(..blog/index.txt): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 16
+[26-Jun-2014 15:40:13 America/Chicago] PHP Fatal error:  Call to undefined function replace() in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 16
+[26-Jun-2014 15:41:04 America/Chicago] PHP Fatal error:  Call to undefined function replace() in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 16
+[26-Jun-2014 15:42:01 America/Chicago] PHP Warning:  str_replace() expects at least 3 parameters, 2 given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 16
+[26-Jun-2014 15:45:47 America/Chicago] PHP Warning:  str_replace() expects at least 3 parameters, 2 given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 16
+[26-Jun-2014 20:32:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 23
+[26-Jun-2014 20:32:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 23
+[26-Jun-2014 20:32:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 23
+[26-Jun-2014 20:32:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 23
+[26-Jun-2014 20:32:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 23
+[26-Jun-2014 20:32:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 23
+[26-Jun-2014 20:50:03 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename1): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:03 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename2): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:03 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename3): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:03 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename4): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:03 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename5): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:03 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename6): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:19 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename1.txt): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:19 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename2.txt): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:19 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename3.txt): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:19 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename4.txt): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:19 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename5.txt): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:19 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename6.txt): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:52 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename4.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:52 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename5.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 20:50:52 America/Chicago] PHP Warning:  file_get_contents(../blog/posts/filename6.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 23:38:52 America/Chicago] PHP Warning:  file_get_contents(/blog/posts/filename1.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 23:38:52 America/Chicago] PHP Warning:  file_get_contents(/blog/posts/filename2.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 23:38:52 America/Chicago] PHP Warning:  file_get_contents(/blog/posts/filename3.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 23:38:52 America/Chicago] PHP Warning:  file_get_contents(/blog/posts/filename4.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 23:38:52 America/Chicago] PHP Warning:  file_get_contents(/blog/posts/filename5.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[26-Jun-2014 23:38:52 America/Chicago] PHP Warning:  file_get_contents(/blog/posts/filename6.html): failed to open stream: No such file or directory in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 31
+[28-Jun-2014 13:24:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 26
+[28-Jun-2014 13:24:46 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 26
+[28-Jun-2014 13:25:51 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 26
+[28-Jun-2014 13:26:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 26
+[28-Jun-2014 13:26:55 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 26
+[28-Jun-2014 13:27:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 27
+[28-Jun-2014 13:27:26 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 27
+[28-Jun-2014 13:40:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$priorityMiddle' (T_VARIABLE) in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 26
+[28-Jun-2014 13:40:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 43
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:46 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 44
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 49
+[28-Jun-2014 13:48:49 America/Chicago] PHP Warning:  strpos(): Empty needle in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 54
+[29-Jun-2014 21:52:22 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 97
+[29-Jun-2014 21:52:44 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 102
+[29-Jun-2014 21:56:20 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 97
+[29-Jun-2014 21:57:34 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 101
+[29-Jun-2014 21:58:16 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 96
+[29-Jun-2014 21:58:56 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 102
+[29-Jun-2014 22:23:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 69
+[29-Jun-2014 22:36:26 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 104
+[29-Jun-2014 22:37:36 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 110
+[29-Jun-2014 22:37:50 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 110
+[29-Jun-2014 22:38:49 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 104
+[29-Jun-2014 22:41:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ruffles/public_html/sphere.is/scripts/search.php on line 121
+[15-Dec-2014 13:37:28 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ruffles/public_html/sphere.is/scripts/newPublish.php on line 8
+[15-Dec-2014 13:38:09 America/Chicago] PHP Warning:  base_convert() expects exactly 3 parameters, 1 given in /home4/ruffles/public_html/sphere.is/scripts/newPublish.php on line 8
+[15-Dec-2014 13:40:02 America/Chicago] PHP Warning:  base_convert() expects exactly 3 parameters, 1 given in /home4/ruffles/public_html/sphere.is/scripts/newPublish.php on line 8
+[15-Dec-2014 13:42:46 America/Chicago] PHP Warning:  base_convert() expects exactly 3 parameters, 1 given in /home4/ruffles/public_html/sphere.is/scripts/newPublish.php on line 8
+[18-Jan-2015 19:59:20 America/Chicago] PHP Warning:  require_once(./twilio-php/Services/Twilio.php): failed to open stream: No such file or directory in /home4/ruffles/public_html/pioneer/beta/scripts/message.php on line 2
+[18-Jan-2015 19:59:20 America/Chicago] PHP Fatal error:  require_once(): Failed opening required './twilio-php/Services/Twilio.php' (include_path='.:/opt/php54/lib/php') in /home4/ruffles/public_html/pioneer/beta/scripts/message.php on line 2
+[18-Jan-2015 20:59:41 America/New_York] PHP Warning:  file_get_contents(log.txt): failed to open stream: No such file or directory in /home4/ruffles/public_html/pioneer/beta/scripts/message.php on line 37

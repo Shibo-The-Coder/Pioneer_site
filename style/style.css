@@ -1,0 +1,189 @@
+/*General tag CSS*/
+/*Gatech gold color: RBG(207,181,59) = #CFB53B*/
+body {
+	margin: 0px 0px;
+	padding:0px;
+	font-family: 'Courier New', sans-serif;
+	background: #E6AE27; /* #009999*/
+	height:100%;
+}
+a:visited {
+  color: rgba( 97, 126, 141, 1 );
+}
+p{
+	line-height:2em;
+}
+
+/*Sidebar and right-side content*/
+#rightContent{	
+	margin-left:290px;
+	width:80%;
+	min-height:500px;
+}
+#leftSidebar {
+	width: 280px;
+	background-color: #292929;
+	position:fixed;
+	height: 100%;
+	box-sizing: border-box;
+	padding:0px;
+	margin:0px;
+	overflow-y:auto;
+	overflow-x:hidden;
+ 
+}
+#searchbar{
+	width:260px;
+	padding:3px;
+	margin:0px
+}
+#navSearch {
+	width: 40px;
+	height: 40px;
+	background-image: url(./images/search.png);
+	background-size: 35%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-color:#E6AE27;
+	float:left;
+	cursor:pointer;
+}
+#navSearch:hover{
+	background-color:#f0e87d;
+}
+#searchInput {
+	height: 40px;
+	width: 150px;
+	-webkit-appearance: none;
+	border: none;
+	padding: 0 10px 0 10px;
+	border-left: 4px solid #000;
+	box-sizing: border-box;
+	-webkit-transition:width 1s;
+    transition:width 1s;
+}
+#searchInput:focus{
+	width:200px;
+	
+}
+/*Social media plugins on sidebar*/
+#sharethis{display:none;}
+/*Header and Media buttons*/
+#header {
+	width:50%;
+	height: 130px;
+	max-width:763px;
+	max-height:130px;
+	margin: auto auto;
+	margin-bottom:0px;
+	border-bottom: 1px solid rgba( 97, 126, 141, 1 );
+	box-shadow:#000 -7px -7px 20px;
+	border-top-left-radius:25px;
+	border-top-right-radius:25px;
+}
+#logo{
+	cursor:pointer;
+	width:100%;
+	height:100%;
+	border-top-right-radius:25px;	
+	border-top-left-radius:25px;
+}
+
+/*ENDMedia buttons*/
+/*Navigation bar*/
+#nav {
+	width: 70%;
+	height:40px;
+	min-width:600px;
+	margin: auto auto;
+	background-color: #FFF;/*#D4DCDF*/
+	border: 5px #000 solid;
+	box-shadow: 0 0 30px #000;
+	padding:0px;
+	border-radius:25px;
+}
+#navButtons{
+	margin:0px 0px;
+	width:100%;
+	padding:0px;
+	text-align:center;
+}
+.navItem {
+	font-family:Arial, serif;
+	font-weight:bold;
+	width: 130px;
+	max-width:15%;
+	height: 40px;
+	list-style:none;
+	float:left;
+	padding-right:10px;
+	padding-right:10px;
+	line-height:2.5em;
+	margin:0;
+	border-radius:25px;
+}
+
+.navItem:hover{
+	background-color: #E6AE27;
+	cursor: pointer;
+}
+
+.navItem > a {text-decoration:none; color:inherit;}
+
+
+.searchResult, .searchText {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+	background: rgb(236, 239, 244);
+	border-left: 4px solid rgba( 97, 126, 141, 1 );
+	box-sizing: border-box;
+}
+
+
+
+/*END Navigation Bar*/
+/*Main skeleton*/
+#content {
+	overflow: hidden;
+	box-sizing: border-box;
+	width: 100%;
+	min-width:600px;
+	margin: auto auto;
+}
+.page{
+	background: #FFF;
+	border-left: 4px solid #000;
+	border-bottom-left-radius: 15px;
+	box-sizing: border-box;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+	padding:10px;
+	
+}
+
+.blogPost {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	background: #FFF;
+	border-left: 4px solid #000;
+	box-sizing: border-box;
+}
+#tiles{border-radius:25px;}
+.tile{width:50%;float:left;}
+.postImage{width:120px;}
+
+#footer {
+	width: 100%;
+	height:30px;
+	position:relative;
+	line-height:1em;
+	background: url(./images/noise.png);
+	background-color: #292929;
+	color: rgba( 255, 255, 255, 0.7 );
+	text-align: center;
+	font-size: 11px;
+	border-top: 1px solid rgba( 97, 126, 141, 1 );
+}
+/*END Main skeleton*/
