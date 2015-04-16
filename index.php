@@ -7,4 +7,3 @@
 			</div>
 			<?php include_once('modules/footer.php'); ?>
 			<?php include_once('modules/finite.php'); ?>
-	
